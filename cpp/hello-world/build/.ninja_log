@@ -1,0 +1,7 @@
+# ninja log v6
+1	436	1717927467132895217	CMakeFiles/hello-world.dir/hello_world.cpp.o	287acd070a9a4385
+0	649	1717927467132255242	CMakeFiles/hello-world.dir/hello_world_test.cpp.o	684283cac853bc93
+1	3125	1717927467133360367	CMakeFiles/hello-world.dir/test/tests-main.cpp.o	b8ee2f739c6d9391
+3125	3171	1717927470257215309	hello-world	abf57ed5ee3a5bff
+3171	3638	1717927470302683596	CMakeFiles/test_hello-world	95137a8c87aa9523
+3171	3638	1717927470302683596	/Users/sixlukey/Development/Exercism/cpp/hello-world/build/CMakeFiles/test_hello-world	95137a8c87aa9523

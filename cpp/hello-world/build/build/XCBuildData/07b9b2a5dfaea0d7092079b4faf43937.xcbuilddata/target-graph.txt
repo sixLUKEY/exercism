@@ -1,0 +1,11 @@
+Target dependency graph (4 targets)
+Target 'ALL_BUILD' in project 'hello-world'
+➜ Explicit dependency on target 'test_hello-world' in project 'hello-world'
+➜ Explicit dependency on target 'hello-world' in project 'hello-world'
+➜ Explicit dependency on target 'ZERO_CHECK' in project 'hello-world'
+Target 'test_hello-world' in project 'hello-world'
+➜ Explicit dependency on target 'hello-world' in project 'hello-world'
+➜ Explicit dependency on target 'ZERO_CHECK' in project 'hello-world'
+Target 'hello-world' in project 'hello-world'
+➜ Explicit dependency on target 'ZERO_CHECK' in project 'hello-world'
+Target 'ZERO_CHECK' in project 'hello-world' (no dependencies)
