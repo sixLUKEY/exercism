@@ -1,0 +1,6 @@
+# ninja log v6
+1	643	1718043709322004926	CMakeFiles/last-will.dir/last_will_test.cpp.o	8c9b13de35cc7f19
+1	2875	1718043709322241624	CMakeFiles/last-will.dir/test/tests-main.cpp.o	2d8cbecca8840db6
+2875	2978	1718043712196259123	last-will	6e8112fe0022d708
+2978	3469	1718043712298855610	CMakeFiles/test_last-will	3c66e6ab81a7bd58
+2978	3469	1718043712298855610	/Users/sixlukey/Development/Exercism/cpp/last-will/build/CMakeFiles/test_last-will	3c66e6ab81a7bd58
