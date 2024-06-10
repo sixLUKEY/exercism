@@ -1,0 +1,10 @@
+# ninja log v6
+1	670	1718040380107092251	CMakeFiles/lasagna.dir/lasagna_test.cpp.o	93274037da1611a7
+1	2874	1718040380107627909	CMakeFiles/lasagna.dir/test/tests-main.cpp.o	1c4c9fd4d7584f75
+2874	2994	1718040382980724186	lasagna	ca12b9d570f066a1
+2994	3426	1718040383100604926	CMakeFiles/test_lasagna	80e05315bb823cc7
+2994	3426	1718040383100604926	/Users/sixlukey/Development/Exercism/cpp/lasagna/build/CMakeFiles/test_lasagna	80e05315bb823cc7
+29	634	1718041249739795916	CMakeFiles/lasagna.dir/lasagna_test.cpp.o	93274037da1611a7
+634	771	1718041250344500829	lasagna	ca12b9d570f066a1
+771	1261	1718041250481702464	CMakeFiles/test_lasagna	80e05315bb823cc7
+771	1261	1718041250481702464	/Users/sixlukey/Development/Exercism/cpp/lasagna/build/CMakeFiles/test_lasagna	80e05315bb823cc7
